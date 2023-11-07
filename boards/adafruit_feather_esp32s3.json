@@ -45,7 +45,7 @@
   ],
   "name": "Adafruit Feather ESP32-S3 2MB PSRAM",
   "upload": {
-    "flash_size": "8MB",
+    "flash_size": "4MB",
     "maximum_ram_size": 327680,
     "maximum_size": 4194304,
     "use_1200bps_touch": true,
